@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **JSReact and .NET**
+- 🌱 I’m currently Mastering **JSReact and .NET**
 
 - 📫 How to reach me **l3enl3ailey@hotmail.com**
 
