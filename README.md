@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ben Bailey</h1>
-<h3 align="center">Full Stack Engineer </h3>
+<h1 align="center">Full Stack Software Engineer </h1>
 
-- C# | .NET Core | ReactJS | SQL Server
+<h3> - Specialising in -  C# | .NET Core / Web-API | ReactJS / TypeScript | SQL Server </h3>
 
-- 📫 How to reach me **benjaminbailey271900@gmail.com**
+- 📫 Contact me at **benjaminbailey271900@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ben-bailey-39ba5b251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben bailey" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ben-bailey-39ba5b251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben bailey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
