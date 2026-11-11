@@ -1,6 +1,6 @@
 <h1 align="center">Full Stack Software Engineer </h1>
 
-<h3> - Specialising in -  C# | .NET Core / Web-API | ReactJS / TypeScript | SQL Server </h3>
+<h3> - Specialising in -  C# | .NET Core / Web-API | ReactJS / TypeScript | SQL -</h3>
 
 - 📫 Contact me at **benjaminbailey271900@gmail.com**
 
